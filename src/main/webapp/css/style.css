@@ -1,0 +1,51 @@
+body {
+    font-size: 62.5%;
+    font-family: "Trebuchet MS", "Helvetica", "Arial", "Verdana", "sans-serif";
+}
+/*
+label, input {
+   display: block;
+}*/
+
+input.text {
+    margin-bottom: 12px;
+    padding: 0.4em;
+    width: 95%;
+}
+
+fieldset {
+    border: 0 none;
+    margin-top: 25px;
+    padding: 0;
+}
+
+h1 {
+    font-size: 1.2em;
+    margin: 0.6em 0;
+}
+
+div#users-contain {
+    margin: 20px 0;
+    width: 350px;
+}
+
+div#users-contain table {
+    border-collapse: collapse;
+    margin: 1em 0;
+    width: 100%;
+}
+
+div#users-contain table td, div#users-contain table th {
+    border: 1px solid #eee;
+    padding: 0.6em 10px;
+    text-align: left;
+}
+
+.ui-dialog .ui-state-error {
+    padding: 0.3em;
+}
+
+.validateTips {
+    border: 1px solid transparent;
+    padding: 0.3em;
+}

@@ -1,4 +1,4 @@
 gps_server
 ==========
-
-spring,hibernate,netty gps android server
+IntellijiIdea project
+spring,hibernate,netty gps server for android client(https://github.com/vitaliy-kuzmich/gps_client.git) example
